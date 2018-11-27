@@ -1,1 +1,2 @@
 Spring-fu example
+Test
